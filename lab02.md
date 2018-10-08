@@ -43,18 +43,23 @@
 ![](http://a4.qpic.cn/psb?/V1186OFx1RNIby/OaoJ8Kd7oZAGXH52Xhv0iNb7kJIQXtvPYedjzE9hwpQ!/m/dC8BAAAAAAAAnull&bo=1gGbAQAAAAADB28!&rf=photolist&t=5)
 
     - 鼠标双击空白处后选择Tiled Background创建一个背景
+
 ![](http://a4.qpic.cn/psb?/V1186OFx1RNIby/Cc5NH4X3Z3BuTeYVQlpj7MvVMQ5W*pyPHB0tFQ5J68M!/m/dFMBAAAAAAAAnull&bo=WAIGAgAAAAADB3w!&rf=photolist&t=5)
     
     - 可以发现光标现在变成了十字型，我们点击背景，弹出对话框，我们点击打开文件图标，选择已经准备好的背景
+
 ![](http://a3.qpic.cn/psb?/V1186OFx1RNIby/ZZo3R4Km3AGvE6Z*Qchn32MaFgEeMBC9QJmhGrZv2Lg!/m/dFYAAAAAAAAAnull&bo=BAKJAQAAAAADB6w!&rf=photolist&t=5)
 
     - 接下来我们调整背景大小使之适应画布，点击背景图，在左侧属性框内调整size为（1280,1024）
+
 ![](http://a2.qpic.cn/psb?/V1186OFx1RNIby/IlL1aNXQ4oToVL8jHVwj8uP6mSEqUsEx.Z*zu9njfRA!/m/dDUBAAAAAAAAnull&bo=*ADLAAAAAAADBxU!&rf=photolist&t=5)
     
     - 完成之后大概就是这样啦
+
 ![](http://a2.qpic.cn/psb?/V1186OFx1RNIby/KcoEq9GuohQHF59*QTU5cNpy.RwQwaf5wTD1gxJNbNA!/m/dEkBAAAAAAAAnull&bo=ewcPBAAAAAADB1U!&rf=photolist&t=5)
     
     - 这时，我们点击run图标运行，浏览器将自动打开并展示游戏，你就能看到你的设计的背景图啦~
+
 ![](http://a4.qpic.cn/psb?/V1186OFx1RNIby/yF6Etg9.W*8KkNTVnO5Vt9yPH2PR1ngh2HiLfhSZUcw!/m/dDMBAAAAAAAAnull&bo=agFsAAAAAAADByU!&rf=photolist&t=5)
 
 - 第二步 添加游戏对象
@@ -63,7 +68,8 @@
 
         ![](http://a1.qpic.cn/psb?/V1186OFx1RNIby/75p2vNeCDEMr5DxrAris.*RR*rIld0SDr2mWjkEGYC0!/m/dDQBAAAAAAAAnull&bo=GAHeAQAAAAADB.Q!&rf=photolist&t=5)    
     -  新加入一个层layer2，我们将要在这个层上进行主要的操作，所以把它改名为Main并选中。
-![](http://a1.qpic.cn/psb?/V1186OFx1RNIby/MfnybTvGqi8eQcDRLYEvbsSJ6wnseY9VI*UI8lgoseE!/m/dFQBAAAAAAAAnull&bo=GAFlAAAAAAADB14!&rf=photolist&t=5)
+
+        ![](http://a1.qpic.cn/psb?/V1186OFx1RNIby/MfnybTvGqi8eQcDRLYEvbsSJ6wnseY9VI*UI8lgoseE!/m/dFQBAAAAAAAAnull&bo=GAFlAAAAAAADB14!&rf=photolist&t=5)
 
     - 回到画布中，右键插入一个对象，我们选择Mouse对象，我们需要鼠标输入控制。同样的添加Keyboard对象。
 
