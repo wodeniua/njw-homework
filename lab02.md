@@ -1,11 +1,11 @@
-#学会使用construct2制作自己的小游戏
+# 学会使用construct2制作自己的小游戏
 
 - 依稀记得小时候玩别人制作的游戏，自己每每有不痛快的时候，就在幻想着能自己做一个喜欢的游戏，想怎么玩就怎么玩，那该是多么舒服的一件事情。现在，学习了一定知识，我们终于可以制作自己的小游戏啦，想想就有点小激动呢~
 
     ![](https://i01piccdn.sogoucdn.com/faaa05f9eea28625)
 - 好啦，在激动过后，我们正式开始学习如何使用construct2制作自己的小游戏。
 
-##准备工作
+## 准备工作
 
 - 制作工具：construct2 [下载地址](https://i01piccdn.sogoucdn.com/faaa05f9eea28625)
 
@@ -13,9 +13,9 @@
 
   (例如大家可以在网络上寻找喜欢的人物图片，进行抠图之后就可以引入游戏并和他愉快的玩耍啦！)
 
-##正式开始
+## 正式开始
 
-###1.游戏的策划
+### 1.游戏的策划
 
 #### 游戏名称：
 
@@ -35,7 +35,7 @@
 
 - 黑衣人：为了讨伐背叛帝国的Jackey，他们奉命前来了结他的性命，是Jackey归乡途中最大的绊脚石。
 
-###2.游戏设计
+### 2.游戏设计
 
 - 第一步 制作游戏背景图
     - 在construct2中新建一个项目
@@ -122,7 +122,7 @@
 
         ![](http://a3.qpic.cn/psb?/V1186OFx1RNIby/2lLrE43dBBJj*gp0g2jQASjLbcChG5D1hvI2Mbhg9iI!/m/dFoAAAAAAAAAnull&bo=QwKJAgAAAAADB.g!&rf=photolist&t=5)
 
-#####CRC卡片        
+##### CRC卡片        
     
         | Object Name    | player                                  |
         
@@ -148,13 +148,13 @@
         
         |Events & Actions| DestroyOutsideLayout & 碰撞并销毁自己    |
         
-###3.开始游戏
+### 3.开始游戏
 
     - 点击运行图标，享受自己制作的小游戏吧~
 
 ![](https://img01.sogoucdn.com/net/a/04/link?url=https%3A%2F%2Fimg03.sogoucdn.com%2Fapp%2Fa%2F100520093%2Fe18d20c94006dfe0-2857e2f09ca9e0a0-f60d384c0f32915091b75eb0964f1112.jpg&appid=122)
 
-###4.本人作品欣赏
+### 4.本人作品欣赏
 
 ![](images\动图.gif)
 
