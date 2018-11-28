@@ -1,7 +1,9 @@
-##IT伦理与道德
+## IT伦理与道德
 
-###了解美国计算机伦理协会制定的“计算机伦理十戒” 
-   
+IT日益发展，人工智能日渐成熟。由谷歌公司研发的阿尔法狗接连打败李世石和柯洁，表明人类的最高智慧已受到挑战。同时，IT产业发展带来的道德伦理问题也越来越突出。
+
+### 了解美国计算机伦理协会制定的“计算机伦理十戒” 
+
    • 你不应该用计算机去伤害他人 
 
    • 你不应该去影响他人的计算机工作 
@@ -22,7 +24,7 @@
 
    • 你应该始终注意，你使用计算机时是在进一步加强你对你的人类同胞的理解和尊敬 
 
-###自动驾驶引发的伦理问题
+### 自动驾驶引发的伦理问题
 
 自动驾驶又“闯祸”了。日前，在美国亚利桑那州，Uber的一辆自动驾驶汽车与一名正在过马路的行人相撞，导致行人死亡。这是全球首例自动驾驶车辆在公开路面撞人致死事故，立刻引起轩然大波。
 
@@ -49,14 +51,62 @@
 
 “匿名者”组织起源于国外，这里聚集喜欢恶作剧的黑客和游戏玩家。他们支持网络透明，但常有人冒充他们的身份来发表一些虚假视频。“匿名者”是一个体系松散但规模庞大的国际黑客组织，黑客们大多出于对计算机的热爱加入其中。他们策划过许多次网络攻击，包括反对危害人权的正义行为，也包括给人们带来不便的网络攻击。
 
+![](http://a1.qpic.cn/psb?/V1186OFx1RNIby/Ra3ojBJX.v7eYuHn8myj84lATSNciUMSq38mXFBDBIw!/m/dFQBAAAAAAAAnull&bo=8AAsAQAAAAARB.0!&rf=photolist&t=5)
+
+对ISIS恐怖组织发起宣战
+
 2015年11月，针对于2015年11·13巴黎恐怖袭击事件，国际黑客组织“匿名者”在视频网站youtube上传视频，向IS宣战。
 
 针对于2015年11·13巴黎恐怖袭击事件，英国《每日邮报》2015年11月15日报道，国际黑客组织“匿名者”当天在视频网站youtube上传视频，向IS宣战。视频中，带着标志性的“V字仇杀队”面具的“匿名者”组织发言人用法语说，他们站在人类团结的立场上，不会忘记也不会原谅IS的行为。“全球的‘匿名者’都会把你们揪出来。你们应该知道我们会找到你们，不会放过你们。”这名发言人向IS发出警告，“我们将对你们发动的作战行动会是有史以来最大的一次网络攻击!等着瞧吧。”互联网是ISIS招募新兵及散播处决及其他暴力恐怖图片的主要途径。于是，匿名者决定也用它来对付这个恐怖组织。
 
-2015年12月10日，日本首相安倍晋三的个人网站被黑，黑客组织“匿名者”称对此负责。
+![](http://a1.qpic.cn/psb?/V1186OFx1RNIby/5IdUM4JQgUGKqDwHqRAKwQBlpgkZd4QZ4WwHabYuKSE!/m/dDQBAAAAAAAAnull&bo=LAGZAAAAAAARB4Q!&rf=photolist&t=5)(图为当地时间11月16日，一个自称负责#OpParis运动的Twitter账号宣布，他们已经得到了3824多个支持ISIS的Twitter账号。)
 
 对华网络攻击
 
 匿名者联合计划于2015年5月30日发动对华网络攻击，行动代号#OPCHINA。匿名者开始了新的行动，最近反对中国南海。他们呼吁操作“#OpStopReclamation”，他们正在运行其下的“#OpChina”标签的Twitter。在最近一轮的攻击，他们劫持了7个中国政府网站，10个教育网站，和64个商业网站。这些袭击据称是由在菲律宾匿名成员发起。
 
-![]()
+![](http://a3.qpic.cn/psb?/V1186OFx1RNIby/oaWD9RpsxLu0k.2rKhudJ1iDUH8wIQsS2LvLz00qOM8!/m/dDYBAAAAAAAAnull&bo=LAHsAAAAAAARB*E!&rf=photolist&t=5)
+
+## 关于几种排序：
+
+1. 选择排序
+```c
+#include <stdio.h>
+int main(){/*给含length个数的数组选择排序*/
+    int arr[length];
+    length = 10;
+    int temp;
+    for(int k = 0;k < length;k++){
+        scanf("%d",&arr[k]);
+    }
+    for(int i = 0;i < length;i++){
+        for(int j = i + 1;j < length;j++){
+            if(arr[i] > arr[j]){
+                temp = arr[i];
+                arr[i] = arr[j];
+                arr[j] = temp;
+            }
+
+        }
+
+    }
+}
+```
+2. 冒泡排序
+```c
+#include <stdio.h>
+int main(){/*给含length个数的数组冒泡排序*/
+    int arr[length];
+    length = 10;
+    int temp;
+    for(int k = 0;k < length;k++){
+        scanf("%d",&arr[k]);
+    }
+    for(int i = 0;i < length;i++){
+        for(int j = 0;j < length - i;j++){
+            if(arr[j] > arr[j + 1]){
+                temp = arr[j];
+                arr[j] = arr[j+1];
+                arr[j+1] = temp;
+}
+```  
