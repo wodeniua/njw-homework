@@ -247,4 +247,4 @@ int main(void)
 }
 ```
 
-代码已上传至github的贪吃蛇文件。
+代码已上传至github的贪吃蛇文件。 
