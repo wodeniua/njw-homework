@@ -1,6 +1,7 @@
 ## 贪吃蛇代码
 
 snake move
+
 ```c
 #include<stdio.h>
 #include<stdlib.h>
@@ -100,10 +101,13 @@ int main(void)
 	}
 	printf("Game Over!!!");
 	return 0;
-}```
+}
+```
 
 snake eat
-```c#include<stdio.h>
+
+```c
+#include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
 
@@ -240,6 +244,7 @@ int main(void)
 	}
 	printf("Game Over!!!");
 	return 0;
-}```
+}
+```
 
 代码已上传至github的贪吃蛇文件。
