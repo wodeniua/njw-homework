@@ -18,7 +18,7 @@
 
 事实上，风投可以为创业者提供免费的资金，只要他们有好的idea，有创业的决心，那么被风投认可的他们就有很大概率盈利，同时也能够为风投一方换来巨额盈利。即使失败了，他们也不必偿还这笔资金，甚至风投或许会继续为他们投资，至少他们不会因这次的失败就丢掉自己抵押的房子，变得一无所有。其实不仅包括中国，也包括世界上的其他国家，大多数的IT公司能够顺利地创办，都离不开风投的帮助。风投与一些企业的成功有着密不可分的联系。
 
-![](https://img-blog.csdn.net/20171219171516997?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveHVhbl90aW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![](http://a2.qpic.cn/psb?/V1186OFx1RNIby/ssZ9kLgH*MIfNE046l6XxKK4GhdoMhto0k.uH5bIKVg!/m/dDUBAAAAAAAAnull&bo=JgI4AQAAAAARBy0!&rf=photolist&t=5)
 
 ## 中国的风投与世界的风投
 
